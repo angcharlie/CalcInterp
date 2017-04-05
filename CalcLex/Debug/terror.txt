@@ -1,0 +1,19 @@
+/* terror.calc *   *  /  a1  /*  abc */
+read A4	/* Input the values ****/  xyz
+read B23  
+/***/   12345)
+/* bcd */ /* notatoken */
+/*/  nope */
+
+readabunch
+writeread
+
+/*****Perform the computations*****/
+sum_total:=A+B
+write sum
+write sum_2be / 2.0 +  11.22.33.444
+end
+:
+
+
+

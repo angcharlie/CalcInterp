@@ -1,0 +1,15 @@
+﻿Build started 11/29/16 12:40:41 PM.
+     1>Project "\\Mac\Home\Documents\CSC 3310\CalcInterp\CalcInterp\CalcInterp\CalcInterp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\CalcLex\CalcLex\CalcLex\CalcLex.cpp CalcInterpMain.cpp
+         CalcInterpMain.cpp
+     1>\\mac\home\documents\csc 3310\calcinterp\calcinterp\calcinterp\calcinterpmain.cpp(18): error C3861: 'yyparse': identifier not found
+         CalcLex.cpp
+     1>\\mac\home\documents\csc 3310\calclex\calclex\calclex\calclex.cpp(158): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+     1>\\mac\home\documents\csc 3310\calclex\calclex\calclex\calclex.cpp(258): warning C4717: 'stmt_list' : recursive on all control paths, function will cause runtime stack overflow
+     1>Done Building Project "\\Mac\Home\Documents\CSC 3310\CalcInterp\CalcInterp\CalcInterp\CalcInterp.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.37

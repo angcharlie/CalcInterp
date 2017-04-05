@@ -1,0 +1,19 @@
+/* t2.calc */
+read A			/* Input the values */
+read
+B
+
+/*****Perform the computations*****/
+sum:= A+B
+dif := A - B
+mul := A * b			div := A / b
+write sum
+write dif
+write mul
+write div 
+
+
+write sum / 2.0
+
+
+

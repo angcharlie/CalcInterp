@@ -1,0 +1,12 @@
+/* t1.calc */
+read A			/* Input the values */
+read B
+
+/*****Perform the computations*****/
+sum := A + B
+write sum
+write sum/2.0
+
+read
+Read 
+READ
